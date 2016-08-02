@@ -1,0 +1,143 @@
+{
+  "project_info": {
+    "project_number": "719655981628",
+    "firebase_url": "https://nanochat-8050a.firebaseio.com",
+    "project_id": "nanochat-8050a",
+    "storage_bucket": "nanochat-8050a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:719655981628:android:ff87d3ddff12105f",
+        "android_client_info": {
+          "package_name": "com.example.bala.studentassist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "719655981628-gan5hns35hui0jb5gd2jk7mo2mq4a3h8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bala.studentassist",
+            "certificate_hash": "1043917DBAF1546529469421DB93BD356B7DA1C3"
+          }
+        },
+        {
+          "client_id": "719655981628-naincok0l5lrirbjegu83baginsdfo1l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDE__MI6H2uTYAb72oNt2v8JQoj_YOnrUs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "719655981628-naincok0l5lrirbjegu83baginsdfo1l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:719655981628:android:f77a84b6eed2adfe",
+        "android_client_info": {
+          "package_name": "com.firebase.samples.logindemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "719655981628-cclgt7b33cpe778btkkjnfofiudep4nl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.firebase.samples.logindemo",
+            "certificate_hash": "1043917DBAF1546529469421DB93BD356B7DA1C3"
+          }
+        },
+        {
+          "client_id": "719655981628-naincok0l5lrirbjegu83baginsdfo1l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDE__MI6H2uTYAb72oNt2v8JQoj_YOnrUs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "719655981628-naincok0l5lrirbjegu83baginsdfo1l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:719655981628:android:591f3f016caa01f6",
+        "android_client_info": {
+          "package_name": "com.housing.studenthousing"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "719655981628-86q8oohbk1rl0dq6plncoq0qvntv8n14.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.housing.studenthousing",
+            "certificate_hash": "077A17A0E7F2FEE31FE3E3D4137AC3DAC175EDDF"
+          }
+        },
+        {
+          "client_id": "719655981628-naincok0l5lrirbjegu83baginsdfo1l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDE__MI6H2uTYAb72oNt2v8JQoj_YOnrUs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "719655981628-naincok0l5lrirbjegu83baginsdfo1l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

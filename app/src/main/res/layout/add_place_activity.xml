@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent"
+    android:background="@drawable/gg_four">
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:inputType="textPersonName"
+        android:text="Name"
+        android:ems="10"
+        android:id="@+id/placeName"
+        android:layout_above="@+id/unitNumber"
+        android:layout_centerHorizontal="true" />
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:inputType="number"
+        android:hint="Enter Unit Number"
+        android:ems="10"
+        android:id="@+id/unitNumber"
+        android:layout_above="@+id/rent"
+        android:layout_alignStart="@+id/placeName" />
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:inputType="textEmailAddress"
+        android:ems="10"
+        android:id="@+id/email"
+        android:layout_centerVertical="true"
+        android:layout_alignStart="@+id/unitNumber"
+        android:hint="E-Mail" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="ADD YOUR PLACE"
+        android:id="@+id/textView2"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:inputType="number"
+        android:hint="Enter the rent"
+        android:ems="10"
+        android:id="@+id/rent"
+        android:layout_above="@+id/phoneNumber"
+        android:layout_alignStart="@+id/phoneNumber" />
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:inputType="phone"
+        android:ems="10"
+        android:id="@+id/phoneNumber"
+        android:hint="Enter Phone Number"
+        android:layout_above="@+id/email"
+        android:layout_alignStart="@+id/email" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Add"
+        android:id="@+id/addPlaceButton"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="79dp"
+        android:layout_alignEnd="@+id/email"
+        android:layout_alignStart="@+id/email"
+        android:textColor="@color/cardview_light_background"
+        android:background="@color/colorPrimaryDark"/>
+</RelativeLayout>

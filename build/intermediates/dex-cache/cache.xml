@@ -1,0 +1,523 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\workspaces\Android\StudentHousing\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ee19e33a798d11a5cf309a40155b8223fadcdeea">
+        <dex dex="E:\workspaces\Android\StudentHousing\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appindexing-9.2.1_b082540e144d44522d3cf0e83e9f5272b52b313e\classes.dex" />
+    </item>
+    <item
+        jar="E:\workspaces\Android\StudentHousing\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="E:\workspaces\Android\StudentHousing\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.0.0_b597b4f19d8be414dd182daa7667705b58728a28\classes.dex" />
+    </item>
+    <item
+        jar="E:\workspaces\Android\StudentHousing\app\build\intermediates\exploded-aar\com.android.support\customtabs\23.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="0e5a66a941515d873a34065fe44fbba6ef422a1b">
+        <dex dex="E:\workspaces\Android\StudentHousing\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-customtabs-23.2.1_c1a02a2bfef888a3e9cde1c16bd21a1c3dd06f59\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Ishan\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-annotations\2.2.2\285cb9c666f0f0f3dd8a1be04e1f457eb7b15113\jackson-annotations-2.2.2.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="285cb9c666f0f0f3dd8a1be04e1f457eb7b15113">
+        <dex dex="E:\workspaces\Android\StudentHousing\app\build\intermediates\transforms\dex\debug\folders\1000\10\jackson-annotations-2.2.2_4a0f76ad7140ea7bb1e491286dd1aa5be39e4560\classes.dex" />
+    </item>
+    <item
+        jar="E:\workspaces\Android\StudentHousing\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="05d2e01f33fb2097b51fce3f938dc37a75fe2d6b">
+        <dex dex="E:\workspaces\Android\StudentHousing\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-connection-9.2.1_62ed1a685cc6c6450ec0ce15251dab469fd0ee04\classes.dex" />
+    </item>
+    <item
+        jar="E:\workspaces\Android\StudentHousing\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="0874286cc2fd88d54fdf130e9d5372730da6de97">
+        <dex dex="E:\workspaces\Android\StudentHousing\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.0.0_071a3c52fc6ea965cea977d30ecc2bade70cc859\classes.dex" />
+    </item>
+    <item
+        jar="E:\workspaces\Android\StudentHousing\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="05a2710d284c03087013a667a324c9e2aba5bc91">
+        <dex dex="E:\workspaces\Android\StudentHousing\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-panorama-9.2.1_7dbff71d6763e79c3088586980a4b8f7626dd717\classes.dex" />
+    </item>
+    <item
+        jar="E:\workspaces\Android\StudentHousing\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth-base\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="48917c60ea81213ea39cbd7123996a5401106dc3">
+        <dex dex="E:\workspaces\Android\StudentHousing\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-base-9.2.1_647ad1500fa1483a9e7493381e8f27fd83d73390\classes.dex" />
+    </item>
+    <item
+        jar="E:\workspaces\Android\StudentHousing\app\build\intermediates\exploded-aar\com.google.firebase\firebase-crash\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="6c09228ff931eb30b68dd27fe34ed90d978b6892">
+        <dex dex="E:\workspaces\Android\StudentHousing\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-crash-9.2.1_fcb99d3353ddf797affd5d3274ecd63461fdd2eb\classes.dex" />
+    </item>
+    <item
+        jar="E:\workspaces\Android\StudentHousing\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="f06a0705d7b8b9d18b00d056fe0e07bec75514e6">
+        <dex dex="E:\workspaces\Android\StudentHousing\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-9.2.1_669470fd5e2e26543df8c636aff5734785c6ef22\classes.dex" />
+    </item>
+    <item
+        jar="E:\workspaces\Android\StudentHousing\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="0765979e802b1669c90dc36076559461d5eb6ad1">
+        <dex dex="E:\workspaces\Android\StudentHousing\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-nearby-9.2.1_13010b7fd254b900f5476d887314d8b0515ac08e\classes.dex" />
+    </item>
+    <item
+        jar="E:\workspaces\Android\StudentHousing\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="5337354083e89ed67151859ab0b6b80935c60eaf">
+        <dex dex="E:\workspaces\Android\StudentHousing\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-impl-9.2.1_aa53a61af9a4531927a17907f06345bbb7c7647a\classes.dex" />
+    </item>
+    <item
+        jar="E:\workspaces\Android\StudentHousing\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="152cba5ca28fd4a5191a8577a0fa96d61122041e">
+        <dex dex="E:\workspaces\Android\StudentHousing\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-identity-9.2.1_8e107f8b19d47fcdc1241d41e79dee3b6e9c74ec\classes.dex" />
+    </item>
+    <item
+        jar="E:\workspaces\Android\StudentHousing\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="e719de687ac45141de3dd613907860a495580af0">
+        <dex dex="E:\workspaces\Android\StudentHousing\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-9.2.1_7f514b6ba569dc17d35d4ece87146dd65ee75584\classes.dex" />
+    </item>
+    <item
+        jar="E:\workspaces\Android\StudentHousing\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="2506c5893e125e2f9cfc522378e893620c21b109">
+        <dex dex="E:\workspaces\Android\StudentHousing\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-9.2.1_ca94cfcdb22adfda532131d21067b37b234209c6\classes.dex" />
+    </item>
+    <item
+        jar="E:\workspaces\Android\StudentHousing\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="6a0f2d219f82db499ac03d5a985c4eb3e83fc422">
+        <dex dex="E:\workspaces\Android\StudentHousing\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-9.2.1_9406967b3fbba6056915d9a89f79fc4403b3c035\classes.dex" />
+    </item>
+    <item
+        jar="E:\workspaces\Android\StudentHousing\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="E:\workspaces\Android\StudentHousing\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.0.0_6389f7555ddfd57b8886530f4c9fa2f00a4071ac\classes.dex" />
+    </item>
+    <item
+        jar="E:\workspaces\Android\StudentHousing\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="428c9bac95b2f72921224e289553a04bea61cda5">
+        <dex dex="E:\workspaces\Android\StudentHousing\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-cast-9.2.1_d45c1e65398fc184bf589e70d5371c717368d679\classes.dex" />
+    </item>
+    <item
+        jar="E:\workspaces\Android\StudentHousing\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="894922f67adeaaef51f077a29e315da21a3382d3">
+        <dex dex="E:\workspaces\Android\StudentHousing\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-24.0.0_e1ba731eeb79d13fcf162a36afb6a0616189176a\classes.dex" />
+    </item>
+    <item
+        jar="E:\workspaces\Android\StudentHousing\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="3a42c5696fa39930d39770f7e5552a9c965fbe09">
+        <dex dex="E:\workspaces\Android\StudentHousing\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-vision-9.2.1_8eb7be3b5b257c6204cc6c0d1ddfcd102d75cfcd\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Ishan\.gradle\caches\modules-2\files-2.1\com.firebase\firebase-client-android\2.5.2\f19f10d6276aa0b380e2d05d2ab3272d693a5433\firebase-client-android-2.5.2.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="f19f10d6276aa0b380e2d05d2ab3272d693a5433">
+        <dex dex="E:\workspaces\Android\StudentHousing\app\build\intermediates\transforms\dex\debug\folders\1000\10\firebase-client-android-2.5.2_9f25b5d8f8ea342110ed3ad00727df47558a222b\classes.dex" />
+    </item>
+    <item
+        jar="E:\workspaces\Android\StudentHousing\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="e70f608219ed6b974644c333249ab2bb7b71de98">
+        <dex dex="E:\workspaces\Android\StudentHousing\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.0.0_d183d0720a0ac559ad985adf177269fd9197bb2d\classes.dex" />
+    </item>
+    <item
+        jar="E:\workspaces\Android\StudentHousing\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ac78f93fc89c497a65f9d9a352cd405996d2f65a">
+        <dex dex="E:\workspaces\Android\StudentHousing\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-messaging-9.2.1_396093c31b311995ed374708afb4e96106f27fe2\classes.dex" />
+    </item>
+    <item
+        jar="E:\workspaces\Android\StudentHousing\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="dd1907a2e855eeb2be8aa3486f3d4d4f1c8b22af">
+        <dex dex="E:\workspaces\Android\StudentHousing\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wearable-9.2.1_3f17a7986294e91e1129302f39a631344b86a592\classes.dex" />
+    </item>
+    <item
+        jar="E:\workspaces\Android\StudentHousing\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="f3b0ff905873c91ab64addba30cc1e77bed34c4d">
+        <dex dex="E:\workspaces\Android\StudentHousing\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appinvite-9.2.1_fe3a6e2227e24e52a11aada13fa7941eddabbd80\classes.dex" />
+    </item>
+    <item
+        jar="E:\workspaces\Android\StudentHousing\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics-impl\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="1141496362c8876f0da4b645fbaf22c0a3618372">
+        <dex dex="E:\workspaces\Android\StudentHousing\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-impl-9.2.1_5ca5a2b2504a62dc9bfe955dc4790993c12abd1b\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Ishan\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="E:\workspaces\Android\StudentHousing\app\build\intermediates\transforms\dex\debug\folders\1000\10\bolts-tasks-1.4.0_8844e38408b9344a7c754dd89f8c90c20bc8e87c\classes.dex" />
+    </item>
+    <item
+        jar="E:\workspaces\Android\StudentHousing\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="d064f813cd835f17853e39221b247cf6a997a2db">
+        <dex dex="E:\workspaces\Android\StudentHousing\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-fitness-9.2.1_954b85a1dfa0922f20cf93425c1517eb98d73a35\classes.dex" />
+    </item>
+    <item
+        jar="E:\workspaces\Android\StudentHousing\app\build\intermediates\exploded-aar\com.firebaseui\firebase-ui-auth\0.4.3\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="647502c39ed7ca9bbf22c22d0015c77e0d06e317">
+        <dex dex="E:\workspaces\Android\StudentHousing\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.firebaseui-firebase-ui-auth-0.4.3_8c6c8c5bea81d0f7752b6ef86bd936aa00a56c55\classes.dex" />
+    </item>
+    <item
+        jar="E:\workspaces\Android\StudentHousing\app\build\intermediates\exploded-aar\com.android.support\design\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="fc29308a7a8f6d4407b34634eb48fb8b817f9b23">
+        <dex dex="E:\workspaces\Android\StudentHousing\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-24.0.0_c7e1b515efb49f0545e58dbfbd18ae36e417de3d\classes.dex" />
+    </item>
+    <item
+        jar="E:\workspaces\Android\StudentHousing\app\build\intermediates\exploded-aar\com.firebaseui\firebase-ui\0.4.3\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="2485a4d9357967fb69ff9ac323ca0e778c2c22fb">
+        <dex dex="E:\workspaces\Android\StudentHousing\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.firebaseui-firebase-ui-0.4.3_b5d56d86854af2e9170822f1f26acca39da1f002\classes.dex" />
+    </item>
+    <item
+        jar="E:\workspaces\Android\StudentHousing\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage-common\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="36e2b438f9b0d68fb2482c8f389e249e32840cff">
+        <dex dex="E:\workspaces\Android\StudentHousing\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-common-9.2.1_356a7e2b01a9538f6e2c09baf3bbe1d2cd5407d4\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Ishan\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\24.0.0\2943c74db6d4346ab8c6531adac91fa05c137c40\support-annotations-24.0.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="E:\workspaces\Android\StudentHousing\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.0.0_b3eea426fcfe111f0e57bb3a005ddf31911ccb62\classes.dex" />
+    </item>
+    <item
+        jar="E:\workspaces\Android\StudentHousing\app\build\intermediates\exploded-aar\com.firebaseui\firebase-ui-database\0.4.3\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="734f779fc6347fe6932ae0ae510f958aadf55e45">
+        <dex dex="E:\workspaces\Android\StudentHousing\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.firebaseui-firebase-ui-database-0.4.3_72eec5384455770aaea13ffc587e8fb303d4ec71\classes.dex" />
+    </item>
+    <item
+        jar="E:\workspaces\Android\StudentHousing\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="e6a54c147e0d73ef5cb7c16fea32f8f86736dd50">
+        <dex dex="E:\workspaces\Android\StudentHousing\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_2224a121671a578315b98f7ee0c3d480cf87a376\classes.dex" />
+    </item>
+    <item
+        jar="E:\workspaces\Android\StudentHousing\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-iid\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="a65d98c9409f271d3209f4cc1f7d8e0391665fa5">
+        <dex dex="E:\workspaces\Android\StudentHousing\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-iid-9.2.1_92556926ffe3e155a0c51777c679c9eca959081a\classes.dex" />
+    </item>
+    <item
+        jar="E:\workspaces\Android\StudentHousing\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-module\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="35a01d7cb4ff6b5976777bf5827fd8f206fb8757">
+        <dex dex="E:\workspaces\Android\StudentHousing\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-module-9.2.1_4cebff0baed9c27b56c66470591afc1e13aeeafc\classes.dex" />
+    </item>
+    <item
+        jar="E:\workspaces\Android\StudentHousing\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8aada8a0e9e9b3ecdda5e80f17c6a51a468e302a">
+        <dex dex="E:\workspaces\Android\StudentHousing\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wallet-9.2.1_bdccf168b96b2dcd2c2775eecd8780a2b3b9f15f\classes.dex" />
+    </item>
+    <item
+        jar="E:\workspaces\Android\StudentHousing\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-contextmanager\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ccc963cafe59ce185c49f47baff7eedcb8589bdf">
+        <dex dex="E:\workspaces\Android\StudentHousing\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-contextmanager-9.2.1_aca34213a845ba3162c8a7d3c519304cebbb4fdc\classes.dex" />
+    </item>
+    <item
+        jar="E:\workspaces\Android\StudentHousing\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="819c2c3a4fb135e085445d11131d069cf9c32b2a">
+        <dex dex="E:\workspaces\Android\StudentHousing\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-9.2.1_800a4da14c6ac5495d30196666340e64990a42fb\classes.dex" />
+    </item>
+    <item
+        jar="E:\workspaces\Android\StudentHousing\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="3bd97cfefd783e9de1dd1c30574a6adb44b4409b">
+        <dex dex="E:\workspaces\Android\StudentHousing\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.0.0_a00ab70866c985ef19b63cd92bb7b44741e090d1\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Ishan\.gradle\caches\modules-2\files-2.1\com.firebase\firebase-client-jvm\2.5.2\91731b8f5868a3e8a8a773f29b8d06b5c358f5bb\firebase-client-jvm-2.5.2.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="91731b8f5868a3e8a8a773f29b8d06b5c358f5bb">
+        <dex dex="E:\workspaces\Android\StudentHousing\app\build\intermediates\transforms\dex\debug\folders\1000\10\firebase-client-jvm-2.5.2_7194ab4d2b67313b98e933a9114f47fc23cf5303\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Ishan\.gradle\caches\modules-2\files-2.1\com.firebase\tubesock\0.0.12\6ec0bbd3e161a73ed672284b587fd32309a86d7a\tubesock-0.0.12.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="6ec0bbd3e161a73ed672284b587fd32309a86d7a">
+        <dex dex="E:\workspaces\Android\StudentHousing\app\build\intermediates\transforms\dex\debug\folders\1000\10\tubesock-0.0.12_89acb8bc321e5bf7b21d4f5bded4e40407fb474f\classes.dex" />
+    </item>
+    <item
+        jar="E:\workspaces\Android\StudentHousing\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="d41b5d21cc9dd7d210f0ae82ac509ba7f091d611">
+        <dex dex="E:\workspaces\Android\StudentHousing\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-iid-9.2.1_3de7c763716db922795d36b57a86b69006cd4aa0\classes.dex" />
+    </item>
+    <item
+        jar="E:\workspaces\Android\StudentHousing\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="95e6008a95972d92b9125f5fa8f900a66cfbaa91">
+        <dex dex="E:\workspaces\Android\StudentHousing\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_313bbdb7b001ed3523cf07d58c09e82b742e3405\classes.dex" />
+    </item>
+    <item
+        jar="E:\workspaces\Android\StudentHousing\app\build\intermediates\exploded-aar\com.google.firebase\firebase-config\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="7bb417e9ac8645285342935679e75d371b58b62b">
+        <dex dex="E:\workspaces\Android\StudentHousing\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-config-9.2.1_ddb046e0c80aea538f726250de924ed9dd53443e\classes.dex" />
+    </item>
+    <item
+        jar="E:\workspaces\Android\StudentHousing\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-common\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ee409046028e5657a2a69edaa2eba00d6511a74c">
+        <dex dex="E:\workspaces\Android\StudentHousing\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-common-9.2.1_0faa91450b0116740a3f985464f35df27da24e46\classes.dex" />
+    </item>
+    <item
+        jar="E:\workspaces\Android\StudentHousing\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="def5530cb13311617fc8f962e2a90225bb6904e2">
+        <dex dex="E:\workspaces\Android\StudentHousing\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-plus-9.2.1_eaf838e868abd684be43cbf560a406f55b517820\classes.dex" />
+    </item>
+    <item
+        jar="E:\workspaces\Android\StudentHousing\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gass\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="081ced8ab77e606b6743c27cfe93dc450447b046">
+        <dex dex="E:\workspaces\Android\StudentHousing\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gass-9.2.1_bc9a32321ca056abd223726d0bd1534e5fb3db1f\classes.dex" />
+    </item>
+    <item
+        jar="E:\workspaces\Android\StudentHousing\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="6d2f508d1a9fa0fbe1653595e484800c08afb42c">
+        <dex dex="E:\workspaces\Android\StudentHousing\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-9.2.1_7b6d62fa763596dad60935fb3ef6b66528c732ee\classes.dex" />
+    </item>
+    <item
+        jar="E:\workspaces\Android\StudentHousing\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="bbd51be332bace144b3d16501ec0af379c3c8750">
+        <dex dex="E:\workspaces\Android\StudentHousing\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-maps-9.2.1_bfe84939a44f1b07f070577e54a44ed8ae1838b4\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Ishan\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-databind\2.2.2\3c8f6018eaa72d43b261181e801e6f8676c16ef6\jackson-databind-2.2.2.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="3c8f6018eaa72d43b261181e801e6f8676c16ef6">
+        <dex dex="E:\workspaces\Android\StudentHousing\app\build\intermediates\transforms\dex\debug\folders\1000\10\jackson-databind-2.2.2_ca4c2b71838c4649567eae878d750646cb8f5de1\classes.dex" />
+    </item>
+    <item
+        jar="E:\workspaces\Android\StudentHousing\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\23.0.0\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="03d38bb042efe3e5ce27ba66b729a9523c36d8fe">
+        <dex dex="E:\workspaces\Android\StudentHousing\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.0.0_d52d61e85e8263feeb2f60a707d14d0ba6484b79\classes.dex" />
+    </item>
+    <item
+        jar="E:\workspaces\Android\StudentHousing\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="421b36cf4f0d3bbd75e8f28647fccf36674ef049">
+        <dex dex="E:\workspaces\Android\StudentHousing\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-9.2.1_365b1cc27be91ea5a83115030bc1717b60224837\classes.dex" />
+    </item>
+    <item
+        jar="E:\workspaces\Android\StudentHousing\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="e1bec33f1ec5367e25676638b430b9d585f3dbec">
+        <dex dex="E:\workspaces\Android\StudentHousing\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-9.2.1_d701f9a7c428d10f9d1b77b1df34b77d2071030f\classes.dex" />
+    </item>
+    <item
+        jar="E:\workspaces\Android\StudentHousing\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="6b896c1067633db41e9c10a3a5d0919c5c4cfc8c">
+        <dex dex="E:\workspaces\Android\StudentHousing\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-9.2.1_41b1aac62526ee8384ab4f0ec834961894327d41\classes.dex" />
+    </item>
+    <item
+        jar="E:\workspaces\Android\StudentHousing\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4b515e6e269bfe848f5b43ac09bce54d6617d4fd">
+        <dex dex="E:\workspaces\Android\StudentHousing\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-safetynet-9.2.1_8fb68d4ed6e3c1e339458a2b6e87e99f7896262f\classes.dex" />
+    </item>
+    <item
+        jar="E:\workspaces\Android\StudentHousing\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-clearcut\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="90eeba67a669f8fb24db0f821ef81703fe7a02bc">
+        <dex dex="E:\workspaces\Android\StudentHousing\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-clearcut-9.2.1_13de6b0326f6f798e4faa5002c3c8e3e898311be\classes.dex" />
+    </item>
+    <item
+        jar="E:\workspaces\Android\StudentHousing\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="3627eacd7f7cafb5e8ae683992e7b2f9b7dcab1a">
+        <dex dex="E:\workspaces\Android\StudentHousing\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-common-9.2.1_1ffc43df41e0343081b98104a00e61069ef3a578\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Ishan\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-core\2.2.2\d20be6a5ddd6f8cfd36ebf6dea329873a1c41f1b\jackson-core-2.2.2.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="d20be6a5ddd6f8cfd36ebf6dea329873a1c41f1b">
+        <dex dex="E:\workspaces\Android\StudentHousing\app\build\intermediates\transforms\dex\debug\folders\1000\10\jackson-core-2.2.2_bd86fd31636246d25ab0f3218580177cf4c36868\classes.dex" />
+    </item>
+    <item
+        jar="E:\workspaces\Android\StudentHousing\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\23.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="d358b3dd49a7c67844622dcbc9cf4339e13952ce">
+        <dex dex="E:\workspaces\Android\StudentHousing\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-mediarouter-v7-23.0.0_ba5fc4ae39f89d9f085dcb9421517ac4c7863faa\classes.dex" />
+    </item>
+    <item
+        jar="E:\workspaces\Android\StudentHousing\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="edf9a22ebf25281619265079aec8f5d433da1a5c">
+        <dex dex="E:\workspaces\Android\StudentHousing\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gcm-9.2.1_bdcf2ed6a1976399de092d648da7705c936f544f\classes.dex" />
+    </item>
+    <item
+        jar="E:\workspaces\Android\StudentHousing\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="89ab748a6c0ab6ac1d3671f2356d6181e8108bc5">
+        <dex dex="E:\workspaces\Android\StudentHousing\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-drive-9.2.1_6c25dee4848b1fddd17b87c7d14994cd886ce95c\classes.dex" />
+    </item>
+    <item
+        jar="E:\workspaces\Android\StudentHousing\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="07c569a77f437c5c71eac8b1b636a50bebb69a93">
+        <dex dex="E:\workspaces\Android\StudentHousing\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-location-9.2.1_8e35d2629b8bc3d096092deb95fde2b56e213a0a\classes.dex" />
+    </item>
+    <item
+        jar="E:\workspaces\Android\StudentHousing\app\build\intermediates\exploded-aar\com.facebook.android\facebook-android-sdk\4.11.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="86da97c30f50a67ddabe2cf7040713ad17153fce">
+        <dex dex="E:\workspaces\Android\StudentHousing\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.facebook.android-facebook-android-sdk-4.11.0_43844dfddeed8a6928a468c4903a06fa1a97709e\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Ishan\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-applinks\1.4.0\8ad21bf21784dacce5f2043afb97218cc377e835\bolts-applinks-1.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8ad21bf21784dacce5f2043afb97218cc377e835">
+        <dex dex="E:\workspaces\Android\StudentHousing\app\build\intermediates\transforms\dex\debug\folders\1000\10\bolts-applinks-1.4.0_9efd248ae648781d23df25f698fada0bf428f51f\classes.dex" />
+    </item>
+    <item
+        jar="E:\workspaces\Android\StudentHousing\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4c2b01baa64ba25f8dbdf7f7f828bc5664dab55e">
+        <dex dex="E:\workspaces\Android\StudentHousing\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-games-9.2.1_1a00a4c2e0c4ddbfde46d574f3033aabe31c0e32\classes.dex" />
+    </item>
+    <item
+        jar="E:\workspaces\Android\StudentHousing\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="357a8702c49044417d4856861c8f435e7c74ef09">
+        <dex dex="E:\workspaces\Android\StudentHousing\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-9.2.1_70d260330864f6828fb1ba054f21cc7aeedd4e59\classes.dex" />
+    </item>
+    <item
+        jar="E:\workspaces\Android\StudentHousing\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-places\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="0979debb5b4d955ddc0e80bb192f4f00c2f91750">
+        <dex dex="E:\workspaces\Android\StudentHousing\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-places-9.2.1_1e66321349bc25c2ff85e1247dd15f3e20b1c2bd\classes.dex" />
+    </item>
+    <item
+        jar="E:\workspaces\Android\StudentHousing\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-api\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="77e2e4803396fa79009ace04d9be84184aafcc31">
+        <dex dex="E:\workspaces\Android\StudentHousing\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-api-9.2.1_04362e89b485505cd5f691a6c237cf6c66b319d8\classes.dex" />
+    </item>
+    <item
+        jar="E:\workspaces\Android\StudentHousing\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="b24c1a80d8ccaecee7b8b80209b4e273dc22b14d">
+        <dex dex="E:\workspaces\Android\StudentHousing\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-9.2.1_91204136c1f5fb1f0fbb24bf910be77dab407e8a\classes.dex" />
+    </item>
+    <item
+        jar="E:\workspaces\Android\StudentHousing\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="310ef01419435979cc82847cf085799a8d00e7e9">
+        <dex dex="E:\workspaces\Android\StudentHousing\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-lite-9.2.1_220ae4cab2d5e46fc3246b79dbf842683923e5cf\classes.dex" />
+    </item>
+    <item
+        jar="E:\workspaces\Android\StudentHousing\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="cb86970df0f0f25f766d320b279c7858c1ca0003">
+        <dex dex="E:\workspaces\Android\StudentHousing\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-23.2.1_a4baa30a99a06cd08a33badb28faf894754c0e8d\classes.dex" />
+    </item>
+    <item
+        jar="E:\workspaces\Android\StudentHousing\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast-framework\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="9f2282b9fc24f24c69665032dede1bc7201cf006">
+        <dex dex="E:\workspaces\Android\StudentHousing\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-cast-framework-9.2.1_b453617229f4ddae512c57187642b8f9f6415d38\classes.dex" />
+    </item>
+
+</items>
